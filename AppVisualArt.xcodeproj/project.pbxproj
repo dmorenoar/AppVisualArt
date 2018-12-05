@@ -17,6 +17,7 @@
 		333FBAAD21B80AD000402D9B /* CollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333FBAAC21B80AD000402D9B /* CollectionReusableView.swift */; };
 		333FBAAF21B80BC900402D9B /* Serie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333FBAAE21B80BC800402D9B /* Serie.swift */; };
 		333FBAB121B813BA00402D9B /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333FBAB021B813BA00402D9B /* Category.swift */; };
+		33FAE03921B843FD004D136A /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33FAE03821B843FD004D136A /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		333FBAAC21B80AD000402D9B /* CollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionReusableView.swift; sourceTree = "<group>"; };
 		333FBAAE21B80BC800402D9B /* Serie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Serie.swift; sourceTree = "<group>"; };
 		333FBAB021B813BA00402D9B /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		33FAE03821B843FD004D136A /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				333FBA8721B808CD00402D9B /* LaunchScreen.storyboard */,
 				333FBA8A21B808CD00402D9B /* Info.plist */,
 				333FBAAC21B80AD000402D9B /* CollectionReusableView.swift */,
+				33FAE03821B843FD004D136A /* CollectionViewCell.swift */,
 			);
 			path = AppVisualArt;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 			files = (
 				333FBAAD21B80AD000402D9B /* CollectionReusableView.swift in Sources */,
 				333FBAB121B813BA00402D9B /* Category.swift in Sources */,
+				33FAE03921B843FD004D136A /* CollectionViewCell.swift in Sources */,
 				333FBA8121B808CB00402D9B /* ViewController.swift in Sources */,
 				333FBAAF21B80BC900402D9B /* Serie.swift in Sources */,
 				333FBA7F21B808CB00402D9B /* AppDelegate.swift in Sources */,
